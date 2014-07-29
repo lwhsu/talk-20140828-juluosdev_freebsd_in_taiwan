@@ -12,3 +12,20 @@ Li-Wen Hsu &lt; lwhsu@FreeBSD.org &gt;
 
 # FreeBSD in Taiwan
 
+---
+
+# How The FreeBSD Project Works
+
+* One core team to rule them all?
+
+---
+
+# Contribute
+
+---
+
+# Books
+
+---
+
+# References
