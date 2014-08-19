@@ -148,6 +148,8 @@ https://wiki.freebsd.org/HowWeGotHere
 
 * https://twitter.com/freebsdhelp
 
+* http://bsdnow.tv/
+
 ---
 
 # Call for Help
