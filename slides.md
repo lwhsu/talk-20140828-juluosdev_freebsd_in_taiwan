@@ -111,6 +111,11 @@ https://wiki.freebsd.org/HowWeGotHere
 
 # Contribute
 
+* Send PR!
+* Mailing Lists
+* GSoC
+* Translation
+
 ---
 
 # The FreeBSD Projects in Taiwan
