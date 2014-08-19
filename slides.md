@@ -199,4 +199,6 @@ https://wiki.freebsd.org/HowWeGotHere
 * How the FreeBSD Project Works https://www.youtube.com/watch?v=Y0av1OOMKOA
 * BSD is Dying, Jason Dixon, NYCBSDCon 2007 https://www.youtube.com/watch?v=g7tvI6JCXD0
 
+* Building and Running An Open-Source Community: The FreeBSD Project https://www.youtube.com/watch?v=4xJFwkViJbc
+
 * Twenty Years of Berkeley Unix 0 From AT&T-Owned to Freely Redistributable - Open Sources: Voices from the Open Source Revolution http://oreilly.com/catalog/opensources/book/kirkmck.html
