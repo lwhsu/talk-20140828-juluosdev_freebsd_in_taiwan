@@ -59,6 +59,11 @@ Li-Wen Hsu &lt; lwhsu@FreeBSD.org &gt;
 
 ---
 
+# Whe are the Committers
+
+* http://svnweb.freebsd.org/base/head/usr.bin/calendar/calendars/calendar.freebsd?view=markup
+* http://svnweb.freebsd.org/ports/head/astro/xearth/files/freebsd.committers.markers?view=markup
+
 ---
 
 # Ports collection
