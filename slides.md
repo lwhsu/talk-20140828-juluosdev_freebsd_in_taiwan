@@ -128,9 +128,11 @@ https://wiki.freebsd.org/HowWeGotHere
 # Resources
 
 * https://github.com/freebsd
+* https://www.youtube.com/channel/UCntL6bw6PoFR0r67cMYXLkg
 
 ---
 
 # References
 
 * How the FreeBSD Project Works https://www.youtube.com/watch?v=Y0av1OOMKOA
+* BSD is Dying, Jason Dixon, NYCBSDCon 2007 https://www.youtube.com/watch?v=g7tvI6JCXD0
