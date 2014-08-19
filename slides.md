@@ -10,6 +10,14 @@ Li-Wen Hsu &lt; lwhsu@FreeBSD.org &gt;
 
 ---
 
+# What's good in FreeBSD?
+
+---
+
+# Who is using FreeBSD
+
+---
+
 # The FreeBSD Project
 
 * Developer
