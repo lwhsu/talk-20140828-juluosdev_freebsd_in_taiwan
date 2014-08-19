@@ -84,6 +84,11 @@ Li-Wen Hsu &lt; lwhsu@FreeBSD.org &gt;
 
 # Keeping Touch
 
+* http://lists.freebsd.org/
+* https://wiki.freebsd.org/RecentChanges
+
+* http://forums.freebsd.org/
+
 ---
 
 # Contribute
