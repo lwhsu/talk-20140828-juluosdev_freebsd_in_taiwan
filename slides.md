@@ -10,6 +10,14 @@ Li-Wen Hsu &lt; lwhsu@FreeBSD.org &gt;
 
 ---
 
+# The FreeBSD Project
+
+* Developer
+* Contributor
+* User
+
+---
+
 # FreeBSD in Taiwan
 
 ---
@@ -17,6 +25,47 @@ Li-Wen Hsu &lt; lwhsu@FreeBSD.org &gt;
 # How The FreeBSD Project Works
 
 * One core team to rule them all?
+* Hats
+
+---
+
+# The FreeBSD Project Cluster
+
+* Version Control
+* Code Review
+* Continuous Integration
+* World Wide Web
+* Mailing List
+* Forum
+* Wiki
+
+---
+
+# FreeBSD Foundation
+
+* Keep FreeBSD developers' heads warm
+
+---
+
+# What the Prject Produces
+
+* FreeBSD kernel, user space
+* Security officer, release engineering
+* Ports collection, binary packages
+* FreeBSD releases
+* Manuals, handbook
+* Web sites
+* Community events
+
+---
+
+---
+
+# Ports collection
+
+---
+
+# The Document Project
 
 ---
 
@@ -25,6 +74,12 @@ Li-Wen Hsu &lt; lwhsu@FreeBSD.org &gt;
 ---
 
 # Contribute
+
+---
+
+# The FreeBSD Projects in Taiwan
+
+* Traditional Chinese document translations
 
 ---
 
