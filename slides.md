@@ -130,7 +130,7 @@ https://wiki.freebsd.org/HowWeGotHere
 # Current Projects
 
 * ARM
-  * https://wiki.freebsd.org/FreeBSD/ARM
+  * https://wiki.freebsd.org/FreeBSD/arm
   * https://wiki.freebsd.org/ARMTier1
   * https://wiki.freebsd.org/201407DevSummit/ARMv8
   * https://wiki.freebsd.org/arm64
