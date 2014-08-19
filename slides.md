@@ -45,6 +45,12 @@ http://www.freebsd.org/news/1993/freebsd-coined.html
 
 ---
 
+# What's new for FreeBSD 11
+
+https://wiki.freebsd.org/WhatsNew/FreeBSD11
+
+---
+
 # Who is using FreeBSD
 
 ---
