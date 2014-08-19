@@ -80,6 +80,10 @@ Li-Wen Hsu &lt; lwhsu@FreeBSD.org &gt;
 
 # What does a committer do
 
+* Dogs and cats
+  * https://wiki.freebsd.org/DogsOfFreeBSD
+  * https://wiki.freebsd.org/CatsOfFreeBSD
+
 ---
 
 # How We Got Here
