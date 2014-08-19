@@ -20,12 +20,22 @@ Li-Wen Hsu &lt; lwhsu@FreeBSD.org &gt;
 
 ---
 
+# Keeping Touch
+
+---
+
 # Contribute
 
 ---
 
-# Books
+# Current Projects
+
+---
+
+# Resources
 
 ---
 
 # References
+
+* How the FreeBSD Project Works https://www.youtube.com/watch?v=Y0av1OOMKOA
