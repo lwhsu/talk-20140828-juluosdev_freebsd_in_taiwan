@@ -52,6 +52,10 @@ Li-Wen Hsu &lt; lwhsu@FreeBSD.org &gt;
 # FreeBSD Foundation
 
 * Keep FreeBSD developers' heads warm
+* FreeBSD Journal https://www.freebsdfoundation.org/journal
+
+* https://www.freebsdfoundation.org/
+* http://freebsdfoundation.blogspot.com/
 
 ---
 
