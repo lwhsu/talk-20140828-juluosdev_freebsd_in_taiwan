@@ -40,8 +40,11 @@ Li-Wen Hsu &lt; lwhsu@FreeBSD.org &gt;
 # The FreeBSD Project Cluster
 
 * Version Control
+  * http://svn.freebsd.org/
 * Code Review
+  * https://reviews.freebsd.org/
 * Continuous Integration
+  * http://jenkins.freebsd.org/
 * World Wide Web
 * Mailing List
 * Forum
