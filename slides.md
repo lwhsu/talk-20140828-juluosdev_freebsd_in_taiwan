@@ -139,6 +139,8 @@ https://wiki.freebsd.org/HowWeGotHere
 * http://lists.freebsd.org/
 * https://wiki.freebsd.org/RecentChanges
 
+* Status Reports http://www.freebsd.org/news/status/status.html
+
 * http://forums.freebsd.org/
 
 * https://twitter.com/freebsdhelp
