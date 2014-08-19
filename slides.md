@@ -8,6 +8,37 @@ Li-Wen Hsu &lt; lwhsu@FreeBSD.org &gt;
 
 # FreeBSD
 
+* 11 December, 1993: FreeBSD gets its name
+
+```
+To: interim@bsd.coe.montana.edu (Interim 0.1.5)
+Subject: Re: "386BSD" trademark (fwd)
+From: David Greenman <davidg@implode.rain.com>
+Date: Sat, 19 Jun 93 17:26:02 -0700
+
+> Okay folks.. taking new name suggestions.. we have:
+>
+> BSDFree86      - Rod, who is going with Jordans improved NON BSDI name..
+> Free86BSD      - Jordan, Rod likes this one two...
+>               - (F86BSD for short)
+>
+> vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+>       v                                       v
+>       v   This is the hat to drop yours in!   v
+>       v                                       v
+>       vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+
+
+    How about just simply "FreeBSD"? No confusion, no fuss, seems like a good
+ compromise to me. :-)
+
+ ---
+
+ -DG
+```
+
+http://www.freebsd.org/news/1993/freebsd-coined.html
+
 ---
 
 # What's good in FreeBSD?
