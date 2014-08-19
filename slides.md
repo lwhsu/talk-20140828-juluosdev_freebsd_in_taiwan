@@ -81,6 +81,9 @@ http://www.freebsd.org/news/1993/freebsd-coined.html
 * Forum
 * Wiki
 
+* Netperf Cluster
+  * http://www.freebsd.org/projects/netperf/cluster.html
+
 ---
 
 # FreeBSD Foundation
