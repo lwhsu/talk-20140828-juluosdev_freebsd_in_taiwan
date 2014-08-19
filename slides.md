@@ -82,6 +82,12 @@ Li-Wen Hsu &lt; lwhsu@FreeBSD.org &gt;
 
 ---
 
+# How We Got Here
+
+https://wiki.freebsd.org/HowWeGotHere
+
+---
+
 # Ports collection
 
 ---
