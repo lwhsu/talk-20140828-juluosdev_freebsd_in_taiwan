@@ -110,6 +110,8 @@ https://wiki.freebsd.org/HowWeGotHere
 
 * http://forums.freebsd.org/
 
+* https://twitter.com/freebsdhelp
+
 ---
 
 # Contribute
