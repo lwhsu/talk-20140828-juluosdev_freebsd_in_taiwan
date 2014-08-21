@@ -56,8 +56,29 @@ http://www.freebsd.org/news/1993/freebsd-coined.html
 https://wiki.freebsd.org/WhatsNew/FreeBSD11
 
 ---
-
 # Who is using FreeBSD
+
+FreeBSD is used in the devices from the world’s big companies:
+* Apple
+* Blue Coat
+* Cisco
+* F5 Networks
+* Juniper
+* NetApp
+* Sony's PlayStation Family
+
+---
+# Who’s also using FreeBSD?
+
+FreeBSD is also used to power some of the busiest sites on Internet:
+
+* Apache
+* Netflix
+  * Content delivery, approx 33% of US Internet traffic at night
+* Pixnet
+* WhatsApp
+* Yahoo!
+* Yandex
 
 ---
 
