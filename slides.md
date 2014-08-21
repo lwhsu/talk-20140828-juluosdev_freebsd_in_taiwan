@@ -145,6 +145,16 @@ https://wiki.freebsd.org/HowWeGotHere
 
 ---
 
+# Call for Help
+
+* IRC
+  * https://wiki.freebsd.org/IrcChannels
+  * https://wiki.freebsd.org/IrcNicks
+* Mailing Lists
+* Grab a committer :-)
+
+---
+
 # Contribute
 
 * Send PR!
