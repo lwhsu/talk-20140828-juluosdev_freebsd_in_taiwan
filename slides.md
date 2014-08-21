@@ -205,9 +205,18 @@ https://wiki.freebsd.org/HowWeGotHere
 * Donation
 
 ---
-Ideas
+# Ideas
 
 https://wiki.freebsd.org/IdeasPage
+
+---
+# Ports
+
+julian@: "Src people make FreeBSD, ports people make FreeBSD useful"
+
+* New ports
+* Update ports
+* Issue reporting
 
 ---
 
