@@ -202,6 +202,8 @@ https://wiki.freebsd.org/HowWeGotHere
 * GSoC
 * Translation
 
+* Donation
+
 ---
 
 # The FreeBSD Projects in Taiwan
