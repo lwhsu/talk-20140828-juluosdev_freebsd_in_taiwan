@@ -5,10 +5,9 @@ class: center, middle
 Li-Wen Hsu &lt; lwhsu@FreeBSD.org &gt;
 
 ---
+# 11 December, 1993: <br>&nbsp;&nbsp;&nbsp;&nbsp;FreeBSD gets its name
 
-# FreeBSD
-
-* 11 December, 1993: FreeBSD gets its name
+---
 
 ```
 To: interim@bsd.coe.montana.edu (Interim 0.1.5)
@@ -40,7 +39,14 @@ Date: Sat, 19 Jun 93 17:26:02 -0700
 http://www.freebsd.org/news/1993/freebsd-coined.html
 
 ---
+# FreeBSD
 
+* FreeBSD is an advanced operating system derived from BSD, the version of UNIX® developed at the University of California, Berkeley.
+  * http://www.freebsd.org/about.html
+
+.right[![Beastie](beastie.png)]
+
+---
 # What's good in FreeBSD?
 
 ---
