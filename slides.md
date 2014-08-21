@@ -205,6 +205,11 @@ https://wiki.freebsd.org/HowWeGotHere
 * Donation
 
 ---
+Ideas
+
+https://wiki.freebsd.org/IdeasPage
+
+---
 
 # The FreeBSD Projects in Taiwan
 
