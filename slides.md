@@ -185,12 +185,15 @@ And more..
 # What the Prject Produces
 
 * FreeBSD kernel, user space
-* Security officer, release engineering
+* release engineering
+* Security Advisories
+* Errata Notices
 * Ports collection, binary packages
 * FreeBSD releases
 * Manuals, handbook
 * Web sites
 * Community events
+* Technical support, debugging, etc.
 
 ---
 
