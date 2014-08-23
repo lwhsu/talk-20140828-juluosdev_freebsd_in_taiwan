@@ -234,6 +234,38 @@ And more..
 # FreeBSD Project Org Chart
 
 ---
+Groups and Projects
+
+* Developers
+  * Source Developers
+  * Core Team
+  * Core Team Secretary
+  * Release Engineering Team
+  * Release Engineering Build Teams
+  * Security Officer
+  * Security Team
+  * Ports Team
+  * Port Managers
+  * Doceng Team
+  * Documentation Team
+  * Vendor Relations Team
+
+* Administrative
+  * Foundation Board of Directors
+  * Foundation Operations Manager
+  * FreeBSD.org admins@
+  * FreeBSD.org webmaster
+  * Sentex cluster admins
+  * ISC cluster admins
+  * Mirrors Team
+  * Donations Team
+  * Marketing Team
+  * Perforce Admins
+  * CVS Admins
+  * Postmaster
+  http://www.freebsd.org/administration.html
+
+---
 
 # How We Got Here
 
