@@ -65,6 +65,7 @@ FreeBSD is used in the devices from the world’s big companies:
 * F5 Networks
 * Juniper
 * NetApp
+* Panasas
 * Sony's PlayStation Family
 
 ---
@@ -73,6 +74,7 @@ FreeBSD is used in the devices from the world’s big companies:
 FreeBSD is also used to power some of the busiest sites on Internet:
 
 * Apache
+* ISC
 * Netflix
   * Content delivery, approx 33% of US Internet traffic at night
 * Pixnet
