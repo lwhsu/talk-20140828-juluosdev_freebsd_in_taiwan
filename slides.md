@@ -106,10 +106,21 @@ FreeBSD is also used to power some of the busiest sites on Internet:
 And more..
 
 ---
+# The FreeBSD Project
+
+* One of the most successful open source projects in the world
+  * Can't throw a stone with hitting FreeBSD
+    * Root name servers
+    * Major web hosts
+    * Routing infrastructure
+    * Foundation for major commerical operating systems
+  * And much more...
+
+  But the FreeBSD Project is more than software
 
 ---
 
-# The FreeBSD Project
+# The FreeBSD Project members
 
 * Developer
 * Contributor
