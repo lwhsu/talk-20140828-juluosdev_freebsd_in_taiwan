@@ -231,6 +231,9 @@ And more..
   * Rules, conflict resolution, enforcement
 
 ---
+# FreeBSD Project Org Chart
+
+---
 
 # How We Got Here
 
