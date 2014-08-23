@@ -80,6 +80,9 @@ FreeBSD is also used to power some of the busiest sites on Internet:
 * Yahoo!
 * Yandex
 
+"Our goal over the next few years is for the Linux kernel network stack to rival or exceed that of FreeBSD."  
+.right[Facebook]
+
 ---
 
 # The FreeBSD Project
