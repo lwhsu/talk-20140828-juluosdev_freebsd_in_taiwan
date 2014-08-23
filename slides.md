@@ -197,6 +197,15 @@ And more..
 
 ---
 
+# Things We Consume
+* Beer, soda, pizza, chocolate, and other vices
+* Donated and sponsored Hardware
+* Bandwidth
+* Travel grants, salaries, contracts, grants
+* Thanks, user testimonials, good press
+
+---
+
 # Who are the Committers
 
 * http://svnweb.freebsd.org/base/head/usr.bin/calendar/calendars/calendar.freebsd?view=markup
