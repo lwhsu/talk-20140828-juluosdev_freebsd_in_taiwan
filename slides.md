@@ -84,6 +84,22 @@ FreeBSD is also used to power some of the busiest sites on Internet:
 .right[Facebook]
 
 ---
+# FreeBSD: The Good Parts
+
+* BSD License
+* GEOM
+* Netgraph
+* Jail
+* ZFS
+* Dtrace
+* MAC Framework
+* Audit Framework
+* Capiscum
+* LLVM & Clang
+* Ports system
+And more..
+
+---
 
 # The FreeBSD Project
 
