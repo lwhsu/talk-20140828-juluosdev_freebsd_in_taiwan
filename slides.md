@@ -96,8 +96,10 @@ FreeBSD is also used to power some of the busiest sites on Internet:
 * Audit Framework
 * Capiscum
 * LLVM & Clang
-* Ports system
+* Ports/Pkg system
 And more..
+
+---
 
 ---
 
