@@ -89,6 +89,9 @@ FreeBSD is also used to power some of the busiest sites on Internet:
 # FreeBSD: The Good Parts
 
 * BSD License
+  * Designed to maximize commercial reuse
+  * No requirement that derived works be open Source
+  * Extensive use in commercial, research systems
 * GEOM
 * Netgraph
 * Jail
