@@ -220,6 +220,17 @@ And more..
   * https://wiki.freebsd.org/CatsOfFreeBSD
 
 ---
+# FreeBSD Core Team
+
+* Nine-member elected management body
+  * Votes and candidates from the full set of active FreeBSD Committers
+  * Core secretary
+* Responsibilities
+  * Administrative (commit bits, hats, team charters)
+  * Strategic (project direction, coordination, cajoling)
+  * Rules, conflict resolution, enforcement
+
+---
 
 # How We Got Here
 
