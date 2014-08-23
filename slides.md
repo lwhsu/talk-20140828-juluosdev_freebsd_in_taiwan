@@ -120,11 +120,19 @@ And more..
 
 ---
 
-# The FreeBSD Project members
+# The FreeBSD Project includes
 
-* Developer
-* Contributor
-* User
+* Developer community
+  * Core team
+  * Committers
+  * Ports maintainers
+  * Contributors
+* User community
+  * User groups
+  * Advocacy
+  * Training
+  * Certification
+* FreeBSD Foundation
 
 ---
 
