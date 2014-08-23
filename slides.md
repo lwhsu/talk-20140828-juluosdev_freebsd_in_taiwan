@@ -135,6 +135,23 @@ And more..
 * FreeBSD Foundation
 
 ---
+# FreeBSD Foundation
+
+* Non-profit organization based in Boulder, CO
+* Keep FreeBSD developers' heads warm
+* Sponsored development
+* Intellectual property, contracts, licensing, legal
+* Developer travel grants
+* Event sponsorship
+* Hardware purchase
+* Collaborative R&D agreements
+* FreeBSD Journal
+  * https://www.freebsdfoundation.org/journal
+
+* https://www.freebsdfoundation.org/
+* http://freebsdfoundation.blogspot.com/
+
+---
 
 # FreeBSD in Taiwan
 
@@ -162,16 +179,6 @@ And more..
 
 * Netperf Cluster
   * http://www.freebsd.org/projects/netperf/cluster.html
-
----
-
-# FreeBSD Foundation
-
-* Keep FreeBSD developers' heads warm
-* FreeBSD Journal https://www.freebsdfoundation.org/journal
-
-* https://www.freebsdfoundation.org/
-* http://freebsdfoundation.blogspot.com/
 
 ---
 
