@@ -356,6 +356,18 @@ julian@: "Src people make FreeBSD, ports people make FreeBSD useful"
 
 ---
 
+# Conclusion
+
+* FreeBSD project one of thelargest, oldest, and most successful open source projects
+  * Hundreds of committers, thousands of Contributors
+  * Millions of lines of code
+  * Tens of millions of deployed systems
+* Highly successful community model makes it happen
+  * Join this community!
+  * -Ofun
+
+---
+
 # References
 
 * How the FreeBSD Project Works https://www.youtube.com/watch?v=Y0av1OOMKOA
