@@ -86,6 +86,12 @@ FreeBSD is also used to power some of the busiest sites on Internet:
 .right[Facebook]
 
 ---
+# Who's using parts of FreeBSD?
+
+* Chrome
+* OSv
+
+---
 # FreeBSD: The Good Parts
 
 * BSD License
