@@ -613,4 +613,5 @@ https://wiki.freebsd.org/IdeasPage
 * Twenty Years of Berkeley Unix 0 From AT&T-Owned to Freely Redistributable - Open Sources: Voices from the Open Source Revolution
   * http://oreilly.com/catalog/opensources/book/kirkmck.html
 
-* BSD is Dying, Jason Dixon, NYCBSDCon 2007 https://www.youtube.com/watch?v=g7tvI6JCXD0
+* BSD is Dying, Jason Dixon, NYCBSDCon 2007
+  * https://www.youtube.com/watch?v=g7tvI6JCXD0
