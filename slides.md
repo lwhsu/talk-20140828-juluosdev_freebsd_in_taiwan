@@ -545,9 +545,12 @@ Tai-hwa Liang <avatar@FreeBSD.org>
 * Donation
 
 ---
-# Ideas
+# Start from
 
-https://wiki.freebsd.org/IdeasPage
+* Ideas
+  * https://wiki.freebsd.org/IdeasPage
+* Wanted Ports
+  * https://wiki.freebsd.org/WantedPorts
 
 ---
 
