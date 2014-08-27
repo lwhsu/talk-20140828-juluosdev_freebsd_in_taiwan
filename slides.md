@@ -279,19 +279,21 @@ https://www.freebsdfoundation.org/
   * Vendor Relations Team
 ]
 
-.left-column[
+.right-column[
 * Administrative
   * Foundation Board of Directors
   * Foundation Operations Manager
   * FreeBSD.org cluster admins
-  * FreeBSD.org webmaster
-  * Sentex cluster admins
-  * ISC cluster admins
   * Mirrors Team
   * Donations Team
   * Marketing Team
   * VCS Admins
   * Postmaster
+* Special Projects
+  * Monthly Status Reports
+  * SoC Mentors
+  * Coverity Teams
+  * FreeBSD CI Team
 ]
 
   http://www.freebsd.org/administration.html
