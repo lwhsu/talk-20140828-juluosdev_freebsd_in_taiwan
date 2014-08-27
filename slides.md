@@ -417,7 +417,7 @@ https://wiki.freebsd.org/DevSummit
   * Packages built on oldest supported release
 
 ---
-# Support model in FreeBSD 11
+# FreeBSD 11 Support Model
 
 * Branch-centric model
   * 5 years from X.0
