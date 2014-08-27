@@ -128,33 +128,26 @@ Facebook:
 And more..
 
 ---
-# The FreeBSD Project
+# The FreeBSD Project is more than software
 
-* One of the most successful open source projects in the world
-  * Can't throw a stone with hitting FreeBSD
-    * Root name servers
-    * Major web hosts
-    * Routing infrastructure
-    * Foundation for major commerical operating systems
-  * And much more...
-
-  But the FreeBSD Project is more than software
-
----
-
-# The FreeBSD Project includes
-
+.left-column[
 * Developer community
   * Core team
   * Committers
   * Ports maintainers
   * Contributors
+
+* FreeBSD Foundation
+]
+
+.right-column[
 * User community
   * User groups
+  * Vendors
   * Advocacy
   * Training
   * Certification
-* FreeBSD Foundation
+]
 
 ---
 # Organization
