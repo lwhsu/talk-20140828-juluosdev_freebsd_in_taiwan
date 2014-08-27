@@ -603,15 +603,11 @@ https://wiki.freebsd.org/IdeasPage
 
 # References
 
-* How the FreeBSD Project Works
+* How the FreeBSD Project Works, Dr. Robert Watson, Tech Talk at Google 2007
   * https://www.youtube.com/watch?v=Y0av1OOMKOA
-* A Narrative History of BSD, Dr. Kirk McKusick
+* A Narrative History of BSD, Dr. Kirk McKusick, DCBSDCon 2009
   * https://www.youtube.com/watch?v=ds77e3aO9nA
-* Building and Running An Open-Source Community: The FreeBSD Project
+* Building and Running An Open-Source Community: The FreeBSD Project, Dr. Kirk McKusick, 2013
   * https://www.youtube.com/watch?v=4xJFwkViJbc
-
-* Twenty Years of Berkeley Unix 0 From AT&T-Owned to Freely Redistributable - Open Sources: Voices from the Open Source Revolution
-  * http://oreilly.com/catalog/opensources/book/kirkmck.html
-
 * BSD is Dying, Jason Dixon, NYCBSDCon 2007
   * https://www.youtube.com/watch?v=g7tvI6JCXD0
