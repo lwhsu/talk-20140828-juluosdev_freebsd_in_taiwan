@@ -196,27 +196,6 @@ https://www.freebsdfoundation.org/
 
 ---
 
-# The FreeBSD Project Cluster
-
-* Version Control
-  * http://svn.freebsd.org
-* Code Review
-  * https://reviews.freebsd.org
-* Continuous Integration
-  * http://jenkins.freebsd.org
-* World Wide Web
-  * http://www.freebsd.org
-* Mailing List
-  * http://lists.freebsd.org
-* Forum
-  * http://forums.freebsd.org
-* Wiki
-  * http://wiki.freebsd.org
-* Netperf Cluster
-  * http://www.freebsd.org/projects/netperf/cluster.html
-
----
-
 # What the Prject Produces
 
 * FreeBSD kernel, user space
@@ -302,6 +281,26 @@ https://www.freebsdfoundation.org/
 ]
 
   http://www.freebsd.org/administration.html
+
+---
+# The FreeBSD Project Cluster
+
+* Version Control
+  * http://svn.freebsd.org
+* Code Review
+  * https://reviews.freebsd.org
+* Continuous Integration
+  * http://jenkins.freebsd.org
+* World Wide Web
+  * http://www.freebsd.org
+* Mailing List
+  * http://lists.freebsd.org
+* Forum
+  * http://forums.freebsd.org
+* Wiki
+  * http://wiki.freebsd.org
+* Netperf Cluster
+  * http://www.freebsd.org/projects/netperf/cluster.html
 
 ---
 
