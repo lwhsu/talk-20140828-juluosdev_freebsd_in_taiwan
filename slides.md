@@ -236,7 +236,6 @@ Tai-hwa Liang <avatar@FreeBSD.org>
   * http://forums.freebsd.org
 * Wiki
   * http://wiki.freebsd.org
-
 * Netperf Cluster
   * http://www.freebsd.org/projects/netperf/cluster.html
 
