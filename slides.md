@@ -558,7 +558,11 @@ https://wiki.freebsd.org/IdeasPage
   * https://wiki.freebsd.org/201407DevSummit/ARMv8
   * https://wiki.freebsd.org/arm64
 
-* https://speakerdeck.com/kazuyoshi/porting-docker-to-freebsd
+* Continuous Integration
+  * https://wiki.freebsd.org/Jenkins
+
+* Docker
+  * https://speakerdeck.com/kazuyoshi/porting-docker-to-freebsd
 
 ---
 
