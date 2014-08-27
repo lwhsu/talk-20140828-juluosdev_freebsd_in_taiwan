@@ -217,7 +217,7 @@ $ dot -T png -o organization.png organization.dot
 * Thanks, user testimonials, good press
 
 ---
-# What does a committer does
+# What does a committer do
 
 * Shut up and code.
   * /etc/motd of freefall.FreeBSD.org
@@ -234,8 +234,11 @@ $ dot -T png -o organization.png organization.dot
 
 # Who are the Committers
 
-* http://svnweb.freebsd.org/base/head/usr.bin/calendar/calendars/calendar.freebsd?view=markup
-* http://svnweb.freebsd.org/ports/head/astro/xearth/files/freebsd.committers.markers?view=markup
+* Birthday, Nationality
+  * http://svnweb.freebsd.org/base/head/usr.bin/calendar/calendars/calendar.freebsd?view=markup
+
+* Location
+  * http://svnweb.freebsd.org/ports/head/astro/xearth/files/freebsd.committers.markers?view=markup
 
 ---
 # FreeBSD Committers
