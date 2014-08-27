@@ -395,7 +395,7 @@ https://wiki.freebsd.org/DevSummit
 * Talks
 
 ---
-# Some Highlights in 2014 DevSummit
+# Some Highlights in 2014 DevSummits
 
 * 201405
   * Support model
