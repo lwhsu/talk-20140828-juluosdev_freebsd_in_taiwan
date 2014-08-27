@@ -208,15 +208,6 @@ Tai-hwa Liang <avatar@FreeBSD.org>
 
 ---
 
-# How The FreeBSD Project Works
-
-* One core team to rule them all?
-* Hats
-* Ports Teams
-  * https://wiki.freebsd.org/PortsTeams
-
----
-
 # The FreeBSD Project Cluster
 
 * Version Control
@@ -331,9 +322,37 @@ https://wiki.freebsd.org/HowWeGotHere
 
 # Ports collection
 
+julian@: "src people make FreeBSD, and ports people make FreeBSD useful"
+
+* Subbmitter
+* Maintainer
+* Committer
+* Ports Teams
+  * https://wiki.freebsd.org/PortsTeams
+
+* Pkg(ng)
+
+https://www.freebsd.org/ports/
+
+---
+# Ports jobs
+
+* Daily works
+  * Update ports
+  * New ports
+  * Issue reporting
+
+* Not-so-daily works
+  * Sweep commit
+
 ---
 
 # The Document Project
+
+* Handbook
+* Web sites
+* Articles
+* Translation
 
 ---
 
@@ -376,15 +395,6 @@ https://wiki.freebsd.org/HowWeGotHere
 # Ideas
 
 https://wiki.freebsd.org/IdeasPage
-
----
-# Ports
-
-julian@: "Src people make FreeBSD, ports people make FreeBSD useful"
-
-* New ports
-* Update ports
-* Issue reporting
 
 ---
 
