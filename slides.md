@@ -378,6 +378,26 @@ http://lists.freebsd.org
 * MeetBSD
 * more...
 
+
+---
+# Developer Summits
+
+https://wiki.freebsd.org/DevSummit
+
+* Future Plans
+* Working Groups
+* Talks
+
+---
+# Some Highlights in 2014 DevSummit
+
+* 201405
+  * Support model
+
+* 201407
+  * ARMv8
+  * Teaching
+
 ---
 
 # How We Got Here
