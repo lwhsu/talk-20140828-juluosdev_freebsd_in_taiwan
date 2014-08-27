@@ -283,9 +283,6 @@ Tai-hwa Liang <avatar@FreeBSD.org>
   * Rules, conflict resolution, enforcement
 
 ---
-# FreeBSD Project Org Chart
-
----
 Groups and Projects
 
 * Developers
