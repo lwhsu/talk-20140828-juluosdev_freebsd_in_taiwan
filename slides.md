@@ -403,6 +403,16 @@ julian@: "Src people make FreeBSD, ports people make FreeBSD useful"
 
 ---
 
+# Research
+
+* Robert Watson
+  * http://www.cl.cam.ac.uk/~rnw24/
+  * http://www.cl.cam.ac.uk/research/security/ctsrd/
+* Luigi Rizzo
+  * http://info.iet.unipi.it/~luigi/
+
+---
+
 # Resources
 
 * https://github.com/freebsd
