@@ -221,6 +221,7 @@ https://www.freebsdfoundation.org/
 # What does a committer do
 
 * Shut up and code.
+  * /etc/motd of freefall.FreeBSD.org
 
 * Dogs and cats
   * https://wiki.freebsd.org/DogsOfFreeBSD
