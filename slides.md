@@ -13,9 +13,10 @@ Li-Wen Hsu &lt; lwhsu@FreeBSD.org &gt;
 * How to join FreeBSD project
 
 ---
-# lwhsu@
+# lwhsu@FreeBSD.org
 
 .left-column[
+* 許立文
 * Programmer
 * Instructor/Administrator
 * Traveler
