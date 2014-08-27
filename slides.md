@@ -92,7 +92,16 @@ Facebook:
 "Our goal over the next few years is for the Linux kernel network stack to rival or exceed that of FreeBSD."  
 
 ---
-# Who's using parts of FreeBSD?
+# The projects base on / use parts of FreeBSD
+
+
+* PC-BSD
+* m0n0wall
+* psSense
+* FreeNAS
+* Debian GNU/kFreeBSD
+* Gentoo/FreeBSD
+* ArchBSD
 
 * Chrome
 * OSv
