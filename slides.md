@@ -234,6 +234,19 @@ https://www.freebsdfoundation.org/
 * http://svnweb.freebsd.org/ports/head/astro/xearth/files/freebsd.committers.markers?view=markup
 
 ---
+# FreeBSD Committers
+
+* Committer is someone with right to commit to version control systems
+* Selected based on key characteristics
+  * Technical expertise
+  * History of contribution to the FreeBSD Project
+  * Ability to work well in the community
+  * Having made these properties obvious!
+* Key concept: mentor
+  * Mentor proposes to core@ (portmgr@, doceng@)
+  * Guide through first few months of committing
+
+---
 # FreeBSD Core Team
 
 * Nine-member elected management body
