@@ -165,6 +165,8 @@ $ dot -T png -o organization.png organization.dot
 ---
 # FreeBSD Foundation
 
+https://www.freebsdfoundation.org/
+
 * Non-profit organization based in Boulder, CO
 * Keep FreeBSD developers' heads warm
 * Sponsored development
@@ -173,11 +175,11 @@ $ dot -T png -o organization.png organization.dot
 * Event sponsorship
 * Hardware purchase
 * Collaborative R&D agreements
+
+* Blog
+  * http://freebsdfoundation.blogspot.com/
 * FreeBSD Journal
   * https://www.freebsdfoundation.org/journal
-
-* https://www.freebsdfoundation.org/
-* http://freebsdfoundation.blogspot.com/
 
 ---
 
