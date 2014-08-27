@@ -218,19 +218,20 @@ https://www.freebsdfoundation.org/
 * Thanks, user testimonials, good press
 
 ---
+# What does a committer do
+
+* Shut up and code.
+
+* Dogs and cats
+  * https://wiki.freebsd.org/DogsOfFreeBSD
+  * https://wiki.freebsd.org/CatsOfFreeBSD
+
+---
 
 # Who are the Committers
 
 * http://svnweb.freebsd.org/base/head/usr.bin/calendar/calendars/calendar.freebsd?view=markup
 * http://svnweb.freebsd.org/ports/head/astro/xearth/files/freebsd.committers.markers?view=markup
-
----
-
-# What does a committer do
-
-* Dogs and cats
-  * https://wiki.freebsd.org/DogsOfFreeBSD
-  * https://wiki.freebsd.org/CatsOfFreeBSD
 
 ---
 # FreeBSD Core Team
