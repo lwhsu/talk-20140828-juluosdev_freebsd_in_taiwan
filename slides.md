@@ -5,6 +5,13 @@ class: center, middle
 Li-Wen Hsu &lt; lwhsu@FreeBSD.org &gt;
 
 ---
+# Agenda
+
+* What is FreeBSD
+* How the FreeBSD project works
+* How to join FreeBSD project
+
+---
 # 197X
   * Unix &amp; Berkeley Software Distribution
 
@@ -56,13 +63,6 @@ http://www.freebsd.org/news/1993/freebsd-coined.html
 * BSD Family Tree
   * https://svnweb.freebsd.org/base/head/share/misc/bsd-family-tree?view=markup
 
----
-
-# What's new for FreeBSD 11
-
-https://wiki.freebsd.org/WhatsNew/FreeBSD11
-
-* Some of these features will be merged to FreeBSD 10, even 9
 
 ---
 # Who is using FreeBSD
@@ -129,6 +129,13 @@ Facebook:
 * Ports/Pkg system
   * 20th birthday on 2014-08-21
 And more..
+
+---
+# What's new for FreeBSD 11
+
+https://wiki.freebsd.org/WhatsNew/FreeBSD11
+
+* Some of these features will be merged to FreeBSD 10, even 9
 
 ---
 # The FreeBSD Project is more than software
