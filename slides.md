@@ -275,6 +275,7 @@ Tai-hwa Liang <avatar@FreeBSD.org>
 
 * Nine-member elected management body
   * Votes and candidates from the full set of active FreeBSD Committers
+    * 2-year service
   * Core secretary
 * Responsibilities
   * Administrative (commit bits, hats, team charters)
