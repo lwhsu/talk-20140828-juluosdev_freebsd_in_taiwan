@@ -13,6 +13,17 @@ Li-Wen Hsu &lt; lwhsu@FreeBSD.org &gt;
 * How to join FreeBSD project
 
 ---
+# lwhsu@
+
+.left-column[
+* Programmer
+* Instructor/Administrator
+* Traveler
+* Diver
+]
+.right-column[![lwhsu@](lwhsu.jpg)]
+
+---
 # 197X
   * Unix &amp; Berkeley Software Distribution
 
