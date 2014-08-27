@@ -132,6 +132,7 @@ And more..
 
 .left-column[
 * Developer community
+
   * Core team
   * Committers
   * Ports maintainers
@@ -142,6 +143,7 @@ And more..
 
 .right-column[
 * User community
+
   * User groups
   * Vendors
   * Advocacy
