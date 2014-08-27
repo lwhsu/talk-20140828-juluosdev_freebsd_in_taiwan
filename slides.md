@@ -275,6 +275,7 @@ https://www.freebsdfoundation.org/
   * Port Managers
   * Doceng Team
   * Documentation Team
+  * Bugmaster
   * Vendor Relations Team
 ]
 
@@ -282,15 +283,14 @@ https://www.freebsdfoundation.org/
 * Administrative
   * Foundation Board of Directors
   * Foundation Operations Manager
-  * FreeBSD.org admins@
+  * FreeBSD.org cluster admins
   * FreeBSD.org webmaster
   * Sentex cluster admins
   * ISC cluster admins
   * Mirrors Team
   * Donations Team
   * Marketing Team
-  * Perforce Admins
-  * CVS Admins
+  * VCS Admins
   * Postmaster
 ]
 
