@@ -363,6 +363,7 @@ https://wiki.freebsd.org/HowWeGotHere
 # Contribute
 
 * Send PR!
+  * https://bugs.freebsd.org/bugzilla/
 * Mailing Lists
 * GSoC
 * Translation
