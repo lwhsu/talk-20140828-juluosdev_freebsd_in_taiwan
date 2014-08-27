@@ -59,6 +59,8 @@ http://www.freebsd.org/news/1993/freebsd-coined.html
 
 https://wiki.freebsd.org/WhatsNew/FreeBSD11
 
+* Some of these features will be merged to FreeBSD 10, even 9
+
 ---
 # Who is using FreeBSD
 
