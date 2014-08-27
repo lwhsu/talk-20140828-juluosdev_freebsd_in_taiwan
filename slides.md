@@ -399,6 +399,34 @@ https://wiki.freebsd.org/DevSummit
   * Teaching
 
 ---
+# What is Support
+
+* Security Advisories and Patches
+* freebsd-update(8)
+* Pre-built packages
+* Ports tree “works”
+
+---
+# Current Support Model
+
+* Base System
+  * http://www.freebsd.org/security/
+  * Normal (1 year) and Extended (2 year)
+* Ports and Packages
+  * http://www.freebsd.org/portmgr/policies_eol.html
+  * Packages built on oldest supported release
+
+---
+# Support model in FreeBSD 11
+
+* Branch-centric model
+  * 5 years from X.0
+  * Only most recent point release
+    * 3 month overlap window
+* New stable branch and X.0 every 2 years
+  * 1 year overlap window from X to X+2
+
+---
 
 # How We Got Here
 
