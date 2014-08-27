@@ -354,6 +354,8 @@ https://www.freebsd.org/ports/
 * Articles
 * Translation
 
+https://www.freebsd.org/docs.html
+
 ---
 
 # Keeping Touch
