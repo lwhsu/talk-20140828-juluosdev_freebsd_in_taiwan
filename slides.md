@@ -28,8 +28,8 @@ Date: Sat, 19 Jun 93 17:26:02 -0700
 >       vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 
 
-    How about just simply "FreeBSD"? No confusion, no fuss, seems like a good
- compromise to me. :-)
+*    How about just simply "FreeBSD"? No confusion, no fuss, seems like a good
+* compromise to me. :-)
 
  ---
 
