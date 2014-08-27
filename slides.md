@@ -440,8 +440,8 @@ When in doubt, just ask
 julian@: "src people make FreeBSD, and ports people make FreeBSD useful"
 
 * Ports Tree
-* Pkg(ng)
-
+  * Makefile, macros, patches and scripts
+  * Pkg(ng)
 * Subbmitter
 * Maintainer
 * Committer
