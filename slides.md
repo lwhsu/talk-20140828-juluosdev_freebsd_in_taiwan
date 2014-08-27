@@ -560,6 +560,8 @@ Tai-hwa Liang <avatar@FreeBSD.org>
 * Traditional Chinese document translations
 
 * axge(8)
+* VT (NewCons)
+  * CJK Fonts
 * VirtualBox shard folder
 
 ---
@@ -571,6 +573,12 @@ Tai-hwa Liang <avatar@FreeBSD.org>
   * https://wiki.freebsd.org/ARMTier1
   * https://wiki.freebsd.org/201407DevSummit/ARMv8
   * https://wiki.freebsd.org/arm64
+
+* Xen
+  * SVN head/ and projects/
+
+* ASLR
+  * https://reviews.freebsd.org/D473
 
 * Continuous Integration
   * https://wiki.freebsd.org/Jenkins
