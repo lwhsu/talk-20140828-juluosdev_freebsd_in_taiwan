@@ -140,6 +140,8 @@ https://wiki.freebsd.org/WhatsNew/FreeBSD11
 ---
 # The FreeBSD Project is more than software
 
+Global community of developers and users
+
 .left-column[
 * Developer community
 
