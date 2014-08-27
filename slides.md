@@ -435,18 +435,18 @@ https://wiki.freebsd.org/HowWeGotHere
 When in doubt, just ask
 
 ---
-
 # Ports collection
 
 julian@: "src people make FreeBSD, and ports people make FreeBSD useful"
+
+* Ports Tree
+* Pkg(ng)
 
 * Subbmitter
 * Maintainer
 * Committer
 * Ports Teams
   * https://wiki.freebsd.org/PortsTeams
-
-* Pkg(ng)
 
 https://www.freebsd.org/ports/
 
