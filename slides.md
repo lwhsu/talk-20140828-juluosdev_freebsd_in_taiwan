@@ -576,10 +576,12 @@ https://wiki.freebsd.org/IdeasPage
 
 ---
 
-# Resources
+# Other Resources
 
-* https://github.com/freebsd
-* https://www.youtube.com/channel/UCntL6bw6PoFR0r67cMYXLkg
+* on GitHub
+  * https://github.com/freebsd
+* on BouTube
+  * https://www.youtube.com/channel/UCntL6bw6PoFR0r67cMYXLkg
 
 ---
 
