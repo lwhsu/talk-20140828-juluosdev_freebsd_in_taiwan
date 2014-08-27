@@ -1,6 +1,6 @@
 class: center, middle
 
-# FreeBSD is dying in Taiwan
+# FreeBSD is (not) dying in Taiwan
 
 Li-Wen Hsu &lt; lwhsu@FreeBSD.org &gt;
 
