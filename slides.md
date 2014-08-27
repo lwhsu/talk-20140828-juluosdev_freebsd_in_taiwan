@@ -501,16 +501,16 @@ Tai-hwa Liang <avatar@FreeBSD.org>
 
 # Keeping Posted
 
-* http://lists.freebsd.org/
-* https://wiki.freebsd.org/RecentChanges
-
-* Status Reports http://www.freebsd.org/news/status/status.html
-
-* http://forums.freebsd.org/
-
+* Mailing Lists
+  * http://lists.freebsd.org/
+* Recent Changes in WiKi
+  * https://wiki.freebsd.org/RecentChanges
+* Status Reports
+  * http://www.freebsd.org/news/status/status.html
+* BSD Now
+  * http://bsdnow.tv/
+* FreeBSD Help twitter (run by koobs@)
 * https://twitter.com/freebsdhelp
-
-* http://bsdnow.tv/
 
 ---
 
