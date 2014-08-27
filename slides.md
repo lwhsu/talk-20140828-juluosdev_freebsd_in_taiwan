@@ -540,6 +540,7 @@ Tai-hwa Liang <avatar@FreeBSD.org>
   * https://bugs.freebsd.org/bugzilla/
 * Mailing Lists
 * GSoC
+* Doc proofread, update
 * Translation
 
 * Donation
