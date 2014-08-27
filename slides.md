@@ -325,7 +325,7 @@ $ dot -T png -o organization.png organization.dot
   * http://www.freebsd.org/projects/netperf/cluster.html
 
 ---
-Mailing Lists
+# Mailing Lists
 
 * Mostly public
   * Some expections (core, re, so, portgmr, course, ...)
