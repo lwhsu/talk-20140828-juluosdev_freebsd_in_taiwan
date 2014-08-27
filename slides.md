@@ -283,8 +283,9 @@ Tai-hwa Liang <avatar@FreeBSD.org>
   * Rules, conflict resolution, enforcement
 
 ---
-Groups and Projects
+# Groups and Projects
 
+.left-column[
 * Developers
   * Source Developers
   * Core Team
@@ -298,7 +299,9 @@ Groups and Projects
   * Doceng Team
   * Documentation Team
   * Vendor Relations Team
+]
 
+.left-column[
 * Administrative
   * Foundation Board of Directors
   * Foundation Operations Manager
@@ -312,6 +315,8 @@ Groups and Projects
   * Perforce Admins
   * CVS Admins
   * Postmaster
+]
+
   http://www.freebsd.org/administration.html
 
 ---
