@@ -594,7 +594,7 @@ Tai-hwa Liang <avatar@FreeBSD.org>
 
 * on GitHub
   * https://github.com/freebsd
-* on BouTube
+* on YouTube
   * https://www.youtube.com/channel/UCntL6bw6PoFR0r67cMYXLkg
 
 ---
