@@ -368,6 +368,17 @@ http://lists.freebsd.org
 ]
 
 ---
+# Events
+
+* AsiaBSDCon + DevSummit
+* BSDCan + DevSummit
+* DevSummit in Cambridge
+* EuroBSDCon + DevSummit
+* NYCBSDCon
+* MeetBSD
+* more...
+
+---
 
 # How We Got Here
 
