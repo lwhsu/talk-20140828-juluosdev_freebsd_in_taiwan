@@ -302,7 +302,7 @@ $ dot -T png -o organization.png organization.dot
   * FreeBSD CI Team
 ]
 
-  http://www.freebsd.org/administration.html
+.footnote[http://www.freebsd.org/administration.html]
 
 ---
 # The FreeBSD Project Cluster
