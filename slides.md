@@ -221,15 +221,19 @@ Tai-hwa Liang <avatar@FreeBSD.org>
 # The FreeBSD Project Cluster
 
 * Version Control
-  * http://svn.freebsd.org/
+  * http://svn.freebsd.org
 * Code Review
-  * https://reviews.freebsd.org/
+  * https://reviews.freebsd.org
 * Continuous Integration
-  * http://jenkins.freebsd.org/
+  * http://jenkins.freebsd.org
 * World Wide Web
+  * http://www.freebsd.org
 * Mailing List
+  * http://lists.freebsd.org
 * Forum
+  * http://forums.freebsd.org
 * Wiki
+  * http://wiki.freebsd.org
 
 * Netperf Cluster
   * http://www.freebsd.org/projects/netperf/cluster.html
