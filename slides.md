@@ -327,13 +327,13 @@ $ dot -T png -o organization.png organization.dot
 ---
 # Mailing Lists
 
+http://lists.freebsd.org
+
 * Mostly public
   * Some expections (core, re, so, portgmr, course, ...)
 * Organized loosely by topic
 * Place where vast majority of FreeBSD discussion and planning takes Place
   * Both developer and user
-
-http://lists.freebsd.org
 
 ---
 # Lists you may want to know
