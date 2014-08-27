@@ -217,10 +217,14 @@ $ dot -T png -o organization.png organization.dot
 * Thanks, user testimonials, good press
 
 ---
-# What does a committer do
+# What does a committer does
 
 * Shut up and code.
   * /etc/motd of freefall.FreeBSD.org
+
+* Face bug, Accept bug, Resolve bug, Close bug
+
+* Maximum fun &amp; imagination
 
 * Dogs and cats
   * https://wiki.freebsd.org/DogsOfFreeBSD
