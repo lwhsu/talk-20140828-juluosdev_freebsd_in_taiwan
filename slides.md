@@ -324,6 +324,8 @@ https://www.freebsdfoundation.org/
 
 https://wiki.freebsd.org/HowWeGotHere
 
+When in doubt, just ask
+
 ---
 
 # Ports collection
