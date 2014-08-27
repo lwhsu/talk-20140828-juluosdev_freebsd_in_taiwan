@@ -499,7 +499,7 @@ Tai-hwa Liang <avatar@FreeBSD.org>
 
 ---
 
-# Keeping Touch
+# Keeping Posted
 
 * http://lists.freebsd.org/
 * https://wiki.freebsd.org/RecentChanges
