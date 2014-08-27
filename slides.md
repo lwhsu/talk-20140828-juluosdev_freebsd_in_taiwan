@@ -434,15 +434,14 @@ julian@: "Src people make FreeBSD, ports people make FreeBSD useful"
 
 # References
 
-* How the FreeBSD Project Works https://www.youtube.com/watch?v=Y0av1OOMKOA
+* How the FreeBSD Project Works
+  * https://www.youtube.com/watch?v=Y0av1OOMKOA
+* A Narrative History of BSD, Dr. Kirk McKusick
+  * https://www.youtube.com/watch?v=ds77e3aO9nA
+* Building and Running An Open-Source Community: The FreeBSD Project
+  * https://www.youtube.com/watch?v=4xJFwkViJbc
+
+* Twenty Years of Berkeley Unix 0 From AT&T-Owned to Freely Redistributable - Open Sources: Voices from the Open Source Revolution
+  * http://oreilly.com/catalog/opensources/book/kirkmck.html
+
 * BSD is Dying, Jason Dixon, NYCBSDCon 2007 https://www.youtube.com/watch?v=g7tvI6JCXD0
-
-* Building and Running An Open-Source Community: The FreeBSD Project https://www.youtube.com/watch?v=4xJFwkViJbc
-
-* Twenty Years of Berkeley Unix 0 From AT&T-Owned to Freely Redistributable - Open Sources: Voices from the Open Source Revolution http://oreilly.com/catalog/opensources/book/kirkmck.html
-
----
-
-misc
-
-rwatson's formal verification of OS paper
