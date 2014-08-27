@@ -212,6 +212,8 @@ Tai-hwa Liang <avatar@FreeBSD.org>
 
 * One core team to rule them all?
 * Hats
+* Ports Teams
+  * https://wiki.freebsd.org/PortsTeams
 
 ---
 
