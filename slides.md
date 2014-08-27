@@ -5,7 +5,11 @@ class: center, middle
 Li-Wen Hsu &lt; lwhsu@FreeBSD.org &gt;
 
 ---
-# 11 December, 1993: <br>&nbsp;&nbsp;&nbsp;&nbsp;FreeBSD gets its name
+# 1993
+  * **Nate Williams**, **Rod Grimes**, and **Jordan Hubbard** came together to turn their 386BSD patchkit into something greater. **David Greenman** gave their combined efforts a name.
+
+# 11 December, 1993
+  * FreeBSD gets its name
 
 ---
 
