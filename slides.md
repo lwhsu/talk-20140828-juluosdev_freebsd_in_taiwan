@@ -207,7 +207,7 @@ $ dot -T png -o organization.png organization.dot
 
 ---
 
-# What the Prject Produces
+# What the Project Produces
 
 * FreeBSD kernel, user space
 * Release engineering
