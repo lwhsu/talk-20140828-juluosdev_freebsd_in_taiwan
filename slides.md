@@ -199,11 +199,10 @@ https://www.freebsdfoundation.org/
 # What the Prject Produces
 
 * FreeBSD kernel, user space
-* release engineering
+* Release engineering
 * Security Advisories
 * Errata Notices
 * Ports collection, binary packages
-* FreeBSD releases
 * Manuals, handbook
 * Web sites
 * Community events
