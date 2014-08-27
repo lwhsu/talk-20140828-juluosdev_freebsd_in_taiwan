@@ -505,12 +505,16 @@ Tai-hwa Liang <avatar@FreeBSD.org>
   * http://lists.freebsd.org/
 * Recent Changes in WiKi
   * https://wiki.freebsd.org/RecentChanges
+* News Flash
+  * https://www.freebsd.org/news/newsflash.html
 * Status Reports
   * http://www.freebsd.org/news/status/status.html
 * BSD Now
   * http://bsdnow.tv/
+* FreeBSD News
+  * http://www.freebsdnews.net/
 * FreeBSD Help twitter (run by koobs@)
-* https://twitter.com/freebsdhelp
+  * https://twitter.com/freebsdhelp
 
 ---
 
