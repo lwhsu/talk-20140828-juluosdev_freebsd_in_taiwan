@@ -319,6 +319,55 @@ https://www.freebsdfoundation.org/
   * http://www.freebsd.org/projects/netperf/cluster.html
 
 ---
+Mailing Lists
+
+* Mostly public
+  * Some expections (core, re, so, portgmr, course, ...)
+* Organized loosely by topic
+* Place where vast majority of FreeBSD discussion and planning takes Place
+  * Both developer and user
+
+http://lists.freebsd.org
+
+---
+# Lists you may want to know
+
+.left-column[
+* freebsd-announce
+* freebsd-arch
+* freebsd-arm
+* freebsd-current
+* freebsd-doc
+* freebsd-drivers
+* freebsd-dtrace
+* freebsd-embedded
+* freebsd-emulation
+* freebsd-fs
+* freebsd-geom
+* freebsd-hackers
+* freebsd-jail
+* freebsd-jobs
+* freebsd-multimedia
+]
+.right-column[
+* freebsd-net
+* freebsd-ports-announce
+* freebsd-questions
+* freebsd-security
+* freebsd-stable
+* freebsd-testing
+* freebsd-toolchain
+* freebsd-virtualization
+* freebsd-xen
+* svn-{src,ports,doc}-*
+  * svn-{src,ports,doc}-head
+  * svn-src-projects
+* svn-doc-all
+* soc-status
+* https://mail.kde.org/mailman/listinfo/kde-freebsd
+]
+
+---
 
 # How We Got Here
 
