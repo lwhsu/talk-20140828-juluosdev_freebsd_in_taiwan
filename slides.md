@@ -97,7 +97,7 @@ Facebook:
 * Based on
   * PC-BSD
   * m0n0wall
-  * psSense
+  * pfSense
   * FreeNAS
   * Debian GNU/kFreeBSD
   * Gentoo/FreeBSD
