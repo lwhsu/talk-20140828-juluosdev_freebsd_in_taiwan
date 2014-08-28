@@ -141,6 +141,7 @@ Facebook:
 * LLVM & Clang
 * Ports/Pkg system
   * 20th birthday on 2014-08-21
+* Bhyve
 And more..
 
 ---
