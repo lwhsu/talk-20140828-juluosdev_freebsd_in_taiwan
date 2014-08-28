@@ -576,7 +576,7 @@ julian@: "src people make FreeBSD, and ports people make FreeBSD useful"
 
 ---
 
-# Current Projects
+# Some Current Projects
 
 * ARM
   * https://wiki.freebsd.org/FreeBSD/arm
