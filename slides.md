@@ -444,12 +444,44 @@ https://wiki.freebsd.org/DevSummit
   * 1 year overlap window from X to X+2
 
 ---
-
 # How We Got Here
 
 https://wiki.freebsd.org/HowWeGotHere
 
 When in doubt, just ask
+
+---
+# FreeBSD Developers in Taiwan
+
+```sh
+> grep Taiwan /usr/share/calendar/calendar.freebsd
+```
+```
+01/12   Yen-Ming Lee <leeym@FreeBSD.org> born in Taipei, Taiwan, Republic of China, 1977
+01/12   Ying-Chieh Liao <ijliao@FreeBSD.org> born in Taipei, Taiwan, Republic of China, 1979
+01/14   Yi-Jheng Lin <yzlin@FreeBSD.org> born in Taichung, Taiwan, Republic of China, 1985
+01/16   Vanilla I. Shu <vanilla@FreeBSD.org> born in Taipei, Taiwan, Republic of China, 1978
+03/30   Po-Chuan Hsieh <sunpoet@FreeBSD.org> born in Taipei, Taiwan, Republic of China, 1978
+05/22   Clive Tong-I Lin <clive@FreeBSD.org> born in Changhua, Taiwan, Republic of China, 1978
+06/18   Li-Wen Hsu <lwhsu@FreeBSD.org> born in Taipei, Taiwan, Republic of China, 1984
+07/17   Michael Chin-Yuan Wu <keichii@FreeBSD.org> born in Taipei, Taiwan, Republic of China, 1980
+08/19   Chin-San Huang <chinsan@FreeBSD.org> born in Yi-Lan, Taiwan, Republic of China, 1979
+09/03   Cheng-Lung Sung <clsung@FreeBSD.org> born in Taipei, Taiwan, Republic of China, 1977
+09/20   Kevin Lo <kevlo@FreeBSD.org> born in Taipei, Taiwan, Republic of China, 1972
+12/21   Rong-En Fan <rafan@FreeBSD.org> born in Taipei, Taiwan, Republic of China, 1982
+```
+also
+```
+Tai-hwa Liang <avatar@FreeBSD.org>
+```
+
+---
+# Start from
+
+* Ideas
+  * https://wiki.freebsd.org/IdeasPage
+* Wanted Ports
+  * https://wiki.freebsd.org/WantedPorts
 
 ---
 # Ports collection
@@ -488,31 +520,6 @@ https://www.freebsd.org/ports/
 * Translation
 
 https://www.freebsd.org/docs.html
----
-# FreeBSD Developers in Taiwan
-
-```sh
-> grep Taiwan /usr/share/calendar/calendar.freebsd
-```
-```
-01/12   Yen-Ming Lee <leeym@FreeBSD.org> born in Taipei, Taiwan, Republic of China, 1977
-01/12   Ying-Chieh Liao <ijliao@FreeBSD.org> born in Taipei, Taiwan, Republic of China, 1979
-01/14   Yi-Jheng Lin <yzlin@FreeBSD.org> born in Taichung, Taiwan, Republic of China, 1985
-01/16   Vanilla I. Shu <vanilla@FreeBSD.org> born in Taipei, Taiwan, Republic of China, 1978
-03/30   Po-Chuan Hsieh <sunpoet@FreeBSD.org> born in Taipei, Taiwan, Republic of China, 1978
-05/22   Clive Tong-I Lin <clive@FreeBSD.org> born in Changhua, Taiwan, Republic of China, 1978
-06/18   Li-Wen Hsu <lwhsu@FreeBSD.org> born in Taipei, Taiwan, Republic of China, 1984
-07/17   Michael Chin-Yuan Wu <keichii@FreeBSD.org> born in Taipei, Taiwan, Republic of China, 1980
-08/19   Chin-San Huang <chinsan@FreeBSD.org> born in Yi-Lan, Taiwan, Republic of China, 1979
-09/03   Cheng-Lung Sung <clsung@FreeBSD.org> born in Taipei, Taiwan, Republic of China, 1977
-09/20   Kevin Lo <kevlo@FreeBSD.org> born in Taipei, Taiwan, Republic of China, 1972
-12/21   Rong-En Fan <rafan@FreeBSD.org> born in Taipei, Taiwan, Republic of China, 1982
-```
-also
-```
-Tai-hwa Liang <avatar@FreeBSD.org>
-```
-
 
 ---
 
@@ -555,14 +562,6 @@ Tai-hwa Liang <avatar@FreeBSD.org>
 * Translation
 
 * Donation
-
----
-# Start from
-
-* Ideas
-  * https://wiki.freebsd.org/IdeasPage
-* Wanted Ports
-  * https://wiki.freebsd.org/WantedPorts
 
 ---
 
