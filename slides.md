@@ -484,6 +484,7 @@ Tai-hwa Liang <avatar@FreeBSD.org>
 * VT (NewCons)
   * CJK Fonts
 * VirtualBox shard folder
+  * https://github.com/lwhsu/freebsd-vboxfs
 
 ---
 # Start from
