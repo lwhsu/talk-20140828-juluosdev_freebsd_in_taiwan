@@ -547,12 +547,12 @@ Tai-hwa Liang <avatar@FreeBSD.org>
   * https://wiki.freebsd.org/DocTranslationProjects
 
 ---
-# Call for Help
+# Call for Help / Test
 
+* Mailing Lists
 * IRC
   * https://wiki.freebsd.org/IrcChannels
   * https://wiki.freebsd.org/IrcNicks
-* Mailing Lists
 * Grab a committer :-)
 
 ---
