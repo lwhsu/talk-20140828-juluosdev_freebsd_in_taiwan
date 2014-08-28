@@ -515,9 +515,17 @@ also
 ```
 Tai-hwa Liang <avatar@FreeBSD.org>
 ```
----
 
-# The FreeBSD Projects in Taiwan
+---
+# FreeBSD Resources in Taiwan
+
+* News group
+  * tw.bbs.comp.386bsd
+* Facebook group
+  * https://www.facebook.com/groups/freebsd.taiwan
+
+---
+# FreeBSD Projects in Taiwan
 
 * Traditional Chinese document translations
 
