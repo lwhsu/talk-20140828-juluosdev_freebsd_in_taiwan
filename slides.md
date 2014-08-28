@@ -529,7 +529,6 @@ Tai-hwa Liang <avatar@FreeBSD.org>
 
 * Send PR!
   * https://bugs.freebsd.org/bugzilla/
-* Mailing Lists
 * GSoC
 * Doc proofread, update
 * Translation
