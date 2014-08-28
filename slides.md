@@ -391,6 +391,9 @@ http://lists.freebsd.org
 * Place where vast majority of FreeBSD discussion and planning takes Place
   * Both developer and user
 
+* FreeBSD.cs.nctu.edu.tw does mailpost to news groups
+  * telnet://bbs.cs.nctu.edu.tw M_FBSD.*
+
 ---
 # Lists you may want to know
 
