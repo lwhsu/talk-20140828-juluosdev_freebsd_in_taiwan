@@ -229,6 +229,28 @@ $ dot -T png -o organization.png organization.dot
 * Thanks, user testimonials, good press
 
 ---
+# FreeBSD Committers
+
+* Committer is someone with right to commit to version control systems
+* Selected based on key characteristics
+  * Technical expertise
+  * History of contribution to the FreeBSD Project
+  * Ability to work well in the community
+  * Having made these properties obvious!
+* Key concept: mentor
+  * Mentor proposes to core@ (portmgr@, doceng@)
+  * Guide through first few months of committing
+
+---
+# Who are the Committers
+
+* Birthday, Nationality
+  * http://svn.freebsd.org/base/head/usr.bin/calendar/calendars/calendar.freebsd
+
+* Location
+  * http://svn.freebsd.org/ports/head/astro/xearth/files/freebsd.committers.markers
+
+---
 # What does a committer do
 
 * Shut up and code.
@@ -241,29 +263,6 @@ $ dot -T png -o organization.png organization.dot
 * Dogs and cats
   * https://wiki.freebsd.org/DogsOfFreeBSD
   * https://wiki.freebsd.org/CatsOfFreeBSD
-
----
-
-# Who are the Committers
-
-* Birthday, Nationality
-  * http://svn.freebsd.org/base/head/usr.bin/calendar/calendars/calendar.freebsd
-
-* Location
-  * http://svn.freebsd.org/ports/head/astro/xearth/files/freebsd.committers.markers
-
----
-# FreeBSD Committers
-
-* Committer is someone with right to commit to version control systems
-* Selected based on key characteristics
-  * Technical expertise
-  * History of contribution to the FreeBSD Project
-  * Ability to work well in the community
-  * Having made these properties obvious!
-* Key concept: mentor
-  * Mentor proposes to core@ (portmgr@, doceng@)
-  * Guide through first few months of committing
 
 ---
 # FreeBSD Core Team
