@@ -474,6 +474,16 @@ also
 ```
 Tai-hwa Liang <avatar@FreeBSD.org>
 ```
+---
+
+# The FreeBSD Projects in Taiwan
+
+* Traditional Chinese document translations
+
+* axge(8)
+* VT (NewCons)
+  * CJK Fonts
+* VirtualBox shard folder
 
 ---
 # Start from
@@ -562,17 +572,6 @@ https://www.freebsd.org/docs.html
 * Translation
 
 * Donation
-
----
-
-# The FreeBSD Projects in Taiwan
-
-* Traditional Chinese document translations
-
-* axge(8)
-* VT (NewCons)
-  * CJK Fonts
-* VirtualBox shard folder
 
 ---
 
