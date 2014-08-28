@@ -530,7 +530,7 @@ julian@: "src people make FreeBSD, and ports people make FreeBSD useful"
 * Articles
 * Translation
 
-https://www.freebsd.org/docs.html
+.footnote[https://www.freebsd.org/docs.html]
 
 ---
 
