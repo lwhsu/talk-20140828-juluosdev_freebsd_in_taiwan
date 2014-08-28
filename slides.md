@@ -480,8 +480,6 @@ Tai-hwa Liang <avatar@FreeBSD.org>
 
 * Ideas
   * https://wiki.freebsd.org/IdeasPage
-* Wanted Ports
-  * https://wiki.freebsd.org/WantedPorts
 
 ---
 # Ports collection
@@ -496,6 +494,8 @@ julian@: "src people make FreeBSD, and ports people make FreeBSD useful"
 * Committer
 * Ports Teams
   * https://wiki.freebsd.org/PortsTeams
+* Wanted Ports
+  * https://wiki.freebsd.org/WantedPorts
 
 https://www.freebsd.org/ports/
 
