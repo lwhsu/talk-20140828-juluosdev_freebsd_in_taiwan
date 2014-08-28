@@ -524,6 +524,18 @@ Tai-hwa Liang <avatar@FreeBSD.org>
   * https://github.com/lwhsu/freebsd-vboxfs
 
 ---
+# Contribute
+
+* Send PR!
+  * https://bugs.freebsd.org/bugzilla/
+* Mailing Lists
+* GSoC
+* Doc proofread, update
+* Translation
+
+* Donation
+
+---
 # Start from
 
 * Ideas
@@ -535,7 +547,15 @@ Tai-hwa Liang <avatar@FreeBSD.org>
   * https://wiki.freebsd.org/DocTranslationProjects
 
 ---
+# Call for Help
 
+* IRC
+  * https://wiki.freebsd.org/IrcChannels
+  * https://wiki.freebsd.org/IrcNicks
+* Mailing Lists
+* Grab a committer :-)
+
+---
 # Keeping Posted
 
 * Mailing Lists
@@ -554,30 +574,6 @@ Tai-hwa Liang <avatar@FreeBSD.org>
   * https://twitter.com/freebsdhelp
 
 ---
-
-# Call for Help
-
-* IRC
-  * https://wiki.freebsd.org/IrcChannels
-  * https://wiki.freebsd.org/IrcNicks
-* Mailing Lists
-* Grab a committer :-)
-
----
-
-# Contribute
-
-* Send PR!
-  * https://bugs.freebsd.org/bugzilla/
-* Mailing Lists
-* GSoC
-* Doc proofread, update
-* Translation
-
-* Donation
-
----
-
 # Some Current Projects
 
 * ARM
