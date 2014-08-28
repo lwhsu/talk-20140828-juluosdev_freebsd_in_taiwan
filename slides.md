@@ -265,6 +265,50 @@ $ dot -T png -o organization.png organization.dot
   * https://wiki.freebsd.org/CatsOfFreeBSD
 
 ---
+# Ports collection
+
+julian@: "src people make FreeBSD, and ports people make FreeBSD useful"
+
+* Ports Tree
+  * Makefile, macros, patches and scripts
+  * Pkg(ng)
+* Subbmitter
+* Maintainer
+* Committer
+* Ports Teams
+  * https://wiki.freebsd.org/PortsTeams
+
+.footnote[https://www.freebsd.org/ports/]
+
+---
+# Ports jobs
+
+* Daily works
+  * Update ports
+  * New ports
+  * Issue reporting
+
+* Not-so-daily works
+  * Sweep commit
+
+---
+# The Document Project
+
+* Handbook
+* Web sites
+* Articles
+* Translation
+
+.footnote[https://www.freebsd.org/docs.html]
+
+---
+# How We Got Here
+
+https://wiki.freebsd.org/HowWeGotHere
+
+When in doubt, just ask
+
+---
 # FreeBSD Core Team
 
 * Nine-member elected management body
@@ -444,13 +488,6 @@ https://wiki.freebsd.org/DevSummit
   * 1 year overlap window from X to X+2
 
 ---
-# How We Got Here
-
-https://wiki.freebsd.org/HowWeGotHere
-
-When in doubt, just ask
-
----
 # FreeBSD Developers in Taiwan
 
 ```sh
@@ -496,44 +533,6 @@ Tai-hwa Liang <avatar@FreeBSD.org>
 * Documents
   * https://wiki.freebsd.org/DocIdeaList
   * https://wiki.freebsd.org/DocTranslationProjects
-
----
-# Ports collection
-
-julian@: "src people make FreeBSD, and ports people make FreeBSD useful"
-
-* Ports Tree
-  * Makefile, macros, patches and scripts
-  * Pkg(ng)
-* Subbmitter
-* Maintainer
-* Committer
-* Ports Teams
-  * https://wiki.freebsd.org/PortsTeams
-
-.footnote[https://www.freebsd.org/ports/]
-
----
-# Ports jobs
-
-* Daily works
-  * Update ports
-  * New ports
-  * Issue reporting
-
-* Not-so-daily works
-  * Sweep commit
-
----
-
-# The Document Project
-
-* Handbook
-* Web sites
-* Articles
-* Translation
-
-.footnote[https://www.freebsd.org/docs.html]
 
 ---
 
