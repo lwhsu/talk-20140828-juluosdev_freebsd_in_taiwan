@@ -508,7 +508,7 @@ julian@: "src people make FreeBSD, and ports people make FreeBSD useful"
 * Wanted Ports
   * https://wiki.freebsd.org/WantedPorts
 
-https://www.freebsd.org/ports/
+.footnote[https://www.freebsd.org/ports/]
 
 ---
 # Ports jobs
