@@ -247,10 +247,10 @@ $ dot -T png -o organization.png organization.dot
 # Who are the Committers
 
 * Birthday, Nationality
-  * http://svnweb.freebsd.org/base/head/usr.bin/calendar/calendars/calendar.freebsd?view=markup
+  * http://svn.freebsd.org/base/head/usr.bin/calendar/calendars/calendar.freebsd
 
 * Location
-  * http://svnweb.freebsd.org/ports/head/astro/xearth/files/freebsd.committers.markers?view=markup
+  * http://svn.freebsd.org/ports/head/astro/xearth/files/freebsd.committers.markers
 
 ---
 # FreeBSD Committers
