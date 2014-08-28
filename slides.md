@@ -583,16 +583,12 @@ julian@: "src people make FreeBSD, and ports people make FreeBSD useful"
   * https://wiki.freebsd.org/ARMTier1
   * https://wiki.freebsd.org/201407DevSummit/ARMv8
   * https://wiki.freebsd.org/arm64
-
 * Xen
   * SVN head/ and projects/
-
 * ASLR
   * https://reviews.freebsd.org/D473
-
 * Continuous Integration
   * https://wiki.freebsd.org/Jenkins
-
 * Docker
   * https://speakerdeck.com/kazuyoshi/porting-docker-to-freebsd
 
