@@ -258,7 +258,7 @@ $ dot -T png -o organization.png organization.dot
 
 * Face bug, Accept bug, Resolve bug, Close bug
 
-* Maximum fun &amp; imagination
+* Maximize fun &amp; imagination
 
 * Dogs and cats
   * https://wiki.freebsd.org/DogsOfFreeBSD
