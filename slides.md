@@ -142,7 +142,7 @@ Facebook:
 * Ports/Pkg system
   * 20th birthday on 2014-08-21
 * Bhyve
-And more..
+* And more..
 
 ---
 # What's new for FreeBSD 11
@@ -427,7 +427,7 @@ http://lists.freebsd.org
 * svn-{src,ports,doc}-*
   * svn-{src,ports,doc}-head
   * svn-src-projects
-* svn-doc-all
+* svn-soc-all
 * soc-status
 * https://mail.kde.org/mailman/listinfo/kde-freebsd
 ]
@@ -514,6 +514,7 @@ https://wiki.freebsd.org/DevSummit
 also
 ```
 Tai-hwa Liang <avatar@FreeBSD.org>
+Foxfair Hu <foxfair@FreeBSD.org>
 ```
 
 ---
