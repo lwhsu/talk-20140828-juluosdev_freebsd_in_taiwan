@@ -492,7 +492,7 @@ https://wiki.freebsd.org/DevSummit
   * 1 year overlap window from X to X+2
 
 ---
-# FreeBSD Developers in Taiwan
+# Taiwan FreeBSD Developers
 
 ```sh
 > grep Taiwan /usr/share/calendar/calendar.freebsd
@@ -515,6 +515,7 @@ also
 ```
 Tai-hwa Liang <avatar@FreeBSD.org>
 Foxfair Hu <foxfair@FreeBSD.org>
+Po-Chien Lin <pclin@FreeBSD.org>
 ```
 
 ---
