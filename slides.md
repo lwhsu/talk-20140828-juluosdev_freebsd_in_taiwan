@@ -296,6 +296,7 @@ julian@: "src people make FreeBSD, and ports people make FreeBSD useful"
 # The Document Project
 
 * Handbook
+* Manual pages
 * Web sites
 * Articles
 * Translation
